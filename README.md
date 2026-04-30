@@ -1,60 +1,75 @@
 # RzenDev Portfolio
 
-Portfolio personal enfocado en proyectos reales, stack frontend y experiencia práctica en desarrollo web.
+Frontend portfolio focused on production-ready delivery, clean architecture, and practical user experience.
+
+## Overview
+
+This repository contains my main portfolio application and the standards I use to keep personal projects professionally maintainable.
 
 ## Stack
 
 - React 19
+- JavaScript (ES6+)
 - Vite
 - React Router
 - Framer Motion
+- CSS3
 
-## Quick start
+## Quick Start
 
 ```bash
 npm install
 npm run dev
 ```
 
-App local: `http://localhost:5173`
+Local app: `http://localhost:5173`
 
 ## Scripts
 
-- `npm run dev` - desarrollo
-- `npm run build` - build de producción
-- `npm run lint` - análisis estático
-- `npm run preview` - preview local de build
+- `npm run dev` - start local development server
+- `npm run build` - generate production build
+- `npm run lint` - run static analysis
+- `npm run preview` - preview built output locally
 
-## Estructura
+## Repository Structure
 
-- `src/` código fuente de la app
-- `public/` recursos estáticos
-- `src/pages/` páginas y vistas
-- `src/components/` componentes reutilizables
+- `src/` application source code
+- `src/pages/` page-level components
+- `src/components/` reusable UI components
+- `public/` static assets
+- `.github/` CI workflow and PR/Issue templates
 
-## Contenido
+## Engineering Standards
 
-- Página principal de portfolio con presentación, habilidades y proyectos.
-- Enlaces a trabajos publicados y perfiles profesionales.
+- Pull request workflow with protected `main`
+- CI checks for lint and build
+- Conventional Commits
+- Husky pre-commit quality gate
+- Documentation-first approach
 
-## Certificación
+## Featured Production Work
 
-- Máster Diseño Web FrontEnd (210 horas)
-- Formación en HTML5, CSS3, accesibilidad, estructura web adaptable y fundamentos de scripting con JavaScript
-- Periodo formativo: noviembre 2022 a marzo 2023
+- [Eficonsulting](https://eficonsulting.es/)
+- [Nomads Living](https://nomads-living.com/)
+- [Kleij Laboratory](https://groupkleij.com/)
+- [El Morabito](https://el-morabito.vercel.app/)
+- [AmpWave Music Player](https://ampwave-music-player.vercel.app/)
+- [Muros de Escollera San Juan](https://murosdeescollerasanjuan.es/)
 
-## Roadmap breve
+## Training
 
-- Mejorar copy y llamadas a la acción.
-- Añadir capturas de proyectos destacados.
-- Integrar analítica básica y SEO on-page.
+- Master in Frontend Web Design (210 hours)
+- Focus: HTML5, CSS3, accessibility, adaptive structure, and JavaScript scripting fundamentals
+- Training period: Nov 2022 - Mar 2023
 
-## Comunidad
+## Additional Documentation
 
+- [`DOCUMENTATION.md`](./DOCUMENTATION.md)
+- [`CHANGELOG.md`](./CHANGELOG.md)
 - [`CONTRIBUTING.md`](./CONTRIBUTING.md)
 - [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)
 - [`LICENSE`](./LICENSE)
 
-## Autor
+## Author
 
-Desarrollado por **RzenDev**.
+Built and maintained by **RzenDev**.
