@@ -37,6 +37,12 @@ App local: `http://localhost:5173`
 - Página principal de portfolio con presentación, habilidades y proyectos.
 - Enlaces a trabajos publicados y perfiles profesionales.
 
+## Certificación
+
+- Máster Diseño Web FrontEnd (210 horas)
+- Formación en HTML5, CSS3, accesibilidad, estructura web adaptable y fundamentos de scripting con JavaScript
+- Periodo formativo: noviembre 2022 a marzo 2023
+
 ## Roadmap breve
 
 - Mejorar copy y llamadas a la acción.
